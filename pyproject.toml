@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "process-intelligence"
-version = "7.0.0"
+version = "8.0.0"
 description = "A sample process intelligence Python project."
 readme = "README.md"
 requires-python = ">=3.10"
