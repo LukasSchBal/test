@@ -1,0 +1,117 @@
+case_id,activity,timestamp,resource
+case-0001,Examine Casually,2024-03-22T08:00:00,Ellen
+case-0001,Register Request,2024-03-22T08:32:00,Ellen
+case-0001,Reject Request,2024-03-22T10:30:00,Alice
+case-0001,Examine Thoroughly,2024-03-22T10:47:00,Alice
+case-0001,Reinitiate Request,2024-03-22T11:52:00,Bob
+case-0001,Pay Compensation,2024-03-22T14:11:00,Ellen
+case-0001,Decide,2024-03-22T14:27:00,Ellen
+case-0001,Check Ticket,2024-03-22T15:27:00,Ellen
+case-0002,Reinitiate Request,2024-03-25T08:00:00,Bob
+case-0002,Decide,2024-03-25T11:08:00,Dave
+case-0002,Examine Thoroughly,2024-03-25T12:45:00,Carol
+case-0002,Register Request,2024-03-25T13:34:00,Bob
+case-0003,Examine Casually,2024-03-28T08:00:00,Carol
+case-0003,Register Request,2024-03-28T10:44:00,Carol
+case-0003,Check Ticket,2024-03-28T14:20:00,Alice
+case-0003,Pay Compensation,2024-03-28T17:36:00,Dave
+case-0003,Examine Thoroughly,2024-03-28T20:03:00,Alice
+case-0004,Decide,2024-03-20T08:00:00,Carol
+case-0004,Pay Compensation,2024-03-20T10:37:00,Bob
+case-0004,Reject Request,2024-03-20T13:47:00,Alice
+case-0005,Check Ticket,2024-03-15T08:00:00,Carol
+case-0005,Pay Compensation,2024-03-15T08:51:00,Carol
+case-0005,Examine Thoroughly,2024-03-15T10:31:00,Bob
+case-0005,Register Request,2024-03-15T13:32:00,Carol
+case-0005,Examine Casually,2024-03-15T16:41:00,Alice
+case-0005,Decide,2024-03-15T19:26:00,Bob
+case-0005,Reinitiate Request,2024-03-15T21:52:00,Bob
+case-0005,Reject Request,2024-03-15T22:43:00,Dave
+case-0006,Check Ticket,2024-03-27T08:00:00,Alice
+case-0006,Reject Request,2024-03-27T11:36:00,Carol
+case-0006,Examine Thoroughly,2024-03-27T13:28:00,Carol
+case-0006,Register Request,2024-03-27T13:54:00,Bob
+case-0006,Examine Casually,2024-03-27T16:29:00,Carol
+case-0007,Reinitiate Request,2024-03-24T08:00:00,Ellen
+case-0007,Check Ticket,2024-03-24T10:27:00,Carol
+case-0007,Reject Request,2024-03-24T13:48:00,Ellen
+case-0007,Pay Compensation,2024-03-24T15:47:00,Ellen
+case-0007,Examine Casually,2024-03-24T17:39:00,Carol
+case-0007,Decide,2024-03-24T18:45:00,Bob
+case-0007,Register Request,2024-03-24T21:05:00,Dave
+case-0007,Examine Thoroughly,2024-03-24T21:38:00,Alice
+case-0008,Examine Thoroughly,2024-03-26T08:00:00,Dave
+case-0008,Reject Request,2024-03-26T10:42:00,Alice
+case-0008,Examine Casually,2024-03-26T12:30:00,Dave
+case-0009,Decide,2024-03-11T08:00:00,Alice
+case-0009,Reinitiate Request,2024-03-11T09:25:00,Dave
+case-0009,Register Request,2024-03-11T10:15:00,Dave
+case-0009,Reject Request,2024-03-11T10:25:00,Carol
+case-0009,Examine Thoroughly,2024-03-11T12:43:00,Bob
+case-0009,Check Ticket,2024-03-11T15:02:00,Alice
+case-0010,Decide,2024-03-18T08:00:00,Ellen
+case-0010,Pay Compensation,2024-03-18T08:10:00,Ellen
+case-0010,Reject Request,2024-03-18T09:42:00,Dave
+case-0010,Reinitiate Request,2024-03-18T09:56:00,Alice
+case-0010,Examine Casually,2024-03-18T11:38:00,Carol
+case-0010,Register Request,2024-03-18T12:49:00,Alice
+case-0010,Check Ticket,2024-03-18T14:00:00,Ellen
+case-0010,Examine Thoroughly,2024-03-18T14:30:00,Alice
+case-0011,Examine Casually,2024-03-16T08:00:00,Ellen
+case-0011,Pay Compensation,2024-03-16T08:52:00,Carol
+case-0011,Decide,2024-03-16T11:17:00,Ellen
+case-0011,Reinitiate Request,2024-03-16T13:15:00,Bob
+case-0011,Reject Request,2024-03-16T15:43:00,Bob
+case-0011,Examine Thoroughly,2024-03-16T18:55:00,Carol
+case-0012,Reject Request,2024-03-11T08:00:00,Alice
+case-0012,Check Ticket,2024-03-11T10:40:00,Ellen
+case-0012,Decide,2024-03-11T11:48:00,Ellen
+case-0012,Pay Compensation,2024-03-11T12:54:00,Alice
+case-0012,Register Request,2024-03-11T13:22:00,Alice
+case-0012,Reinitiate Request,2024-03-11T14:30:00,Alice
+case-0012,Examine Thoroughly,2024-03-11T14:48:00,Carol
+case-0012,Examine Casually,2024-03-11T15:16:00,Ellen
+case-0013,Reinitiate Request,2024-03-08T08:00:00,Dave
+case-0013,Examine Casually,2024-03-08T11:36:00,Dave
+case-0013,Decide,2024-03-08T12:34:00,Alice
+case-0013,Pay Compensation,2024-03-08T13:08:00,Dave
+case-0013,Check Ticket,2024-03-08T14:48:00,Dave
+case-0014,Register Request,2024-03-24T08:00:00,Carol
+case-0014,Reject Request,2024-03-24T11:34:00,Alice
+case-0014,Pay Compensation,2024-03-24T12:47:00,Bob
+case-0014,Reinitiate Request,2024-03-24T13:45:00,Ellen
+case-0014,Decide,2024-03-24T15:49:00,Bob
+case-0014,Examine Casually,2024-03-24T17:47:00,Bob
+case-0015,Check Ticket,2024-03-21T08:00:00,Ellen
+case-0015,Pay Compensation,2024-03-21T11:44:00,Alice
+case-0015,Register Request,2024-03-21T12:17:00,Bob
+case-0015,Reinitiate Request,2024-03-21T13:09:00,Dave
+case-0015,Reject Request,2024-03-21T15:23:00,Dave
+case-0015,Decide,2024-03-21T16:27:00,Dave
+case-0016,Pay Compensation,2024-03-30T08:00:00,Dave
+case-0016,Register Request,2024-03-30T09:23:00,Dave
+case-0016,Check Ticket,2024-03-30T12:31:00,Ellen
+case-0016,Examine Thoroughly,2024-03-30T15:30:00,Dave
+case-0017,Decide,2024-03-24T08:00:00,Ellen
+case-0017,Examine Casually,2024-03-24T08:25:00,Carol
+case-0017,Register Request,2024-03-24T08:49:00,Alice
+case-0017,Reinitiate Request,2024-03-24T11:28:00,Dave
+case-0018,Examine Thoroughly,2024-03-22T08:00:00,Bob
+case-0018,Register Request,2024-03-22T09:53:00,Alice
+case-0018,Decide,2024-03-22T13:50:00,Ellen
+case-0018,Pay Compensation,2024-03-22T15:03:00,Ellen
+case-0018,Examine Casually,2024-03-22T17:45:00,Alice
+case-0018,Reject Request,2024-03-22T20:33:00,Alice
+case-0018,Reinitiate Request,2024-03-22T22:30:00,Ellen
+case-0019,Reject Request,2024-03-05T08:00:00,Carol
+case-0019,Examine Thoroughly,2024-03-05T10:07:00,Carol
+case-0019,Examine Casually,2024-03-05T13:29:00,Alice
+case-0019,Pay Compensation,2024-03-05T13:41:00,Dave
+case-0019,Reinitiate Request,2024-03-05T16:30:00,Ellen
+case-0019,Check Ticket,2024-03-05T17:05:00,Alice
+case-0019,Decide,2024-03-05T19:32:00,Bob
+case-0020,Examine Thoroughly,2024-03-10T08:00:00,Bob
+case-0020,Reinitiate Request,2024-03-10T10:02:00,Ellen
+case-0020,Register Request,2024-03-10T13:12:00,Carol
+case-0020,Examine Casually,2024-03-10T15:58:00,Ellen
+case-0020,Pay Compensation,2024-03-10T16:10:00,Ellen
