@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="process-intelligence",
-    version="4.0.0",
+    version="5.0.0",
     description="A sample process intelligence Python project.",
     packages=find_packages(exclude=["tests*"]),
     python_requires=">=3.10",
