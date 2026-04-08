@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "process-intelligence"
-version = "8.0.0"
+version = "9.0.0"
 description = "A sample process intelligence Python project."
 readme = "README.md"
 requires-python = ">=3.10"
@@ -34,6 +34,9 @@ Source = "https://github.com/LukasSchBal/test-dev"
 
 [tool.ruff]
 line-length = 100
+
+[tool.hatch.build.targets.wheel]
+packages = ["src", "utils"]
 
 [tool.ruff.lint]
 extend-select = ["Q", "RUF100", "UP", "I", "E", "F"]
